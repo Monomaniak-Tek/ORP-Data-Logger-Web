@@ -87,8 +87,8 @@ unsigned long previousMillis_LCD = 0;
 
 #if MAISON
 #include <WiFiClient.h>
-const char* ssid = "MonomaniaK";
-const char* password = "Germonde";
+const char* ssid = "******";
+const char* password = "*****";
 IPAddress local_IP(192, 168, 0, 66);
 IPAddress gateway(192, 168, 0, 1);
 IPAddress subnet(255, 255, 255, 0);
